@@ -1,0 +1,15 @@
+{
+  "name": "free-accessibility-tools-directory",
+  "version": "1.0.0",
+  "description": "Free accessibility tools and built-in OS features directory — Markdown + static HTML site with client-side search. No affiliate links.",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/verify.js",
+    "start": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
